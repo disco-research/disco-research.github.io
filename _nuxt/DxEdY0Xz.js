@@ -1,1 +1,0 @@
-import{_ as a}from"./DlAUqK2U.js";import{c as t,o,a as s,y as c}from"./DITk8O04.js";const n={},r={class:"image-caption w-full italic mt-0 opacity-75"};function i(e,l){return o(),t("div",null,[s("div",r,[c(e.$slots,"default",{unwrap:"p"})])])}const p=Object.assign(a(n,[["render",i]]),{__name:"ImageCaption"});export{p as default};
